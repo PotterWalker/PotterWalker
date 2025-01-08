@@ -1,5 +1,5 @@
--☦ Christ is King 
 - 👋 Hi, I’m @PotterWalker
+-  ☦ Christ is King 
 - 👀 I’m interested in mathematics, physics, CS, but also self improvement.
 - 🌱 I’m currently learning how to be better.
 - 💞️ I’m actually having a Youtubr Channel
