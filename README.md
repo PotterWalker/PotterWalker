@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @PotterWalker
 - 👀 I’m interested in mathematics, physics, CS, but also self improvement.
 - 🌱 I’m currently learning how to be better.
-- 💞️ I’m actually having a Youtubr Channel
+- 💞️ I’m actually having a Youtube Channel
 - 📫 How to reach me : Either on Youtube with "CodeMath" (the picture is a Σ) or on Discord through my server :
 - ⚡ Fun fact: I love Demon Slayer and Tanjiro.
 
