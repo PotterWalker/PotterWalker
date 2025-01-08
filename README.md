@@ -1,4 +1,4 @@
--☦ Christ is King
+-☦ Christ is King 
 - 👋 Hi, I’m @PotterWalker
 - 👀 I’m interested in mathematics, physics, CS, but also self improvement.
 - 🌱 I’m currently learning how to be better.
@@ -12,25 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
- __________________________
-  /\                         \
- /  \            ____         \
-/ \/ \          /\   \         \
-\ /\  \         \ \   \         \
- \  \  \     ____\_\   \______   \
-  \   /\\   /\                \   \
-   \ /\/ \  \ \_______    _____\   \
-    \\/ / \  \/______/\   \____/    \
-     \ / /\\         \ \   \         \
-      \ /\/ \         \ \   \         \
-       \\/ / \         \ \   \         \
-  May   \ /   \         \ \   \         \
-         \\  /\\         \ \   \         \
-God Bless \ /\  \         \ \___\         \
-           \\    \         \/___/          \
-  you in    \  \/ \                         \
-             \ /\  \_________________________\
- all  your    \  \ / ______________________  /
-               \  / ______________________  /
-Endeavors!!!    \/_________________________/
-                                             LAW
+
+                                            
